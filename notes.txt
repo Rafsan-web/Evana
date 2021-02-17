@@ -1,0 +1,11 @@
+z-index kaj kornor jonno position relativeuse korte hoy.
+=========================================
+display:flex kore  2ta item ke pasha pashi ene justofy-content: space-between;  korlei 2ta 2 pashe chole jabe.
+================================================
+
+display: flex kore   2ta div ke 1 column a rakhar jonne   -- 
+flex-wrap: wrap korte hobe r  div er width: 50% na diyea,   flex: 50% dite hoe. 
+
+kaon flex er khetre width: 50% kaj korena.
+
+=====================================================
